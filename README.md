@@ -18,7 +18,7 @@
 
 This tool is a powerful and high-performance Python script designed for processing large email lists. It allows users to filter, sort, and segment email lists based on a predefined set of domains, in addition to other useful data handling functions. The tool is optimized to work efficiently with huge files without consuming system resources.
 
-![Tool Screenshot](http://googleusercontent.com/file_content/1)
+![Tool Screenshot]([http://googleusercontent.com/file_content/1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPbhkqbmVGr8hEW04-gOsBRa-VX1AvydgSaE3GqImhA6GF0cW5ywZLCJkOhCRmDWoP_jEIA3BGQ6dzFXncH8VkQlQOjTnMn_ADPFQ0epBAyF-LUFYmTka3C-RZ4_BTyoYQCzYSTudfzLfID3MAB37pjo7q6DHVTy8Qg-M7gDbYpBMqj8hoBAUEjPBzC3wO/s16000/1.PNG))
 
 ---
 
