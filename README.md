@@ -11,17 +11,14 @@
                   **Team152**
                by J-moubarek
               https://t.me/team1954
-              
-1- Filter & Sort Corporate Emails (Telecom, Major Companies)
-2- Validate Emails (from email list)
-3- Extract Emails from Email:Pass
-4- Extract Emails from any Text File (Optimized for Large Files)
 
 ---
 
 ## 📝 Description
 
 This tool is a powerful and high-performance Python script designed for processing large email lists. It allows users to filter, sort, and segment email lists based on a predefined set of domains, in addition to other useful data handling functions. The tool is optimized to work efficiently with huge files without consuming system resources.
+
+![Tool Screenshot](http://googleusercontent.com/file_content/1)
 
 ---
 
